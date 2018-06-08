@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "glenwell/laravel",
+    "description": "Altered version of the original Laravel 5.6 Framework.",
+    "keywords": ["framework", "laravel", "glenwell"],
     "license": "MIT",
     "type": "project",
     "require": {
