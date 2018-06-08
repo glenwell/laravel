@@ -1,6 +1,6 @@
 {
     "name": "glenwell/laravel",
-    "description": "Altered version of the original Laravel 5.6 Framework.",
+    "description": "Altered version of the original Laravel 5.6 Framework by Taylor Otwell.",
     "keywords": ["framework", "laravel", "glenwell"],
     "license": "MIT",
     "type": "project",
